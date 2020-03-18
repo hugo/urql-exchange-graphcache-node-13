@@ -1,0 +1,17 @@
+{
+  "name": "urql-exchange-graphcache-node-13",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@urql/exchange-graphcache": "^2.2.6"
+  }
+}
